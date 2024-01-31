@@ -42,6 +42,7 @@
   3. Only the child nodes of the candidate ontology are selected to participate in the calculation.
   4. So on until the candidate ontology has **no lower level nodes**, or if the cosine similarity is **greater than 0.9** it can be stopped directly.
 
+  (Partial knowledge graph display)
   ![image](https://github.com/Jbb-525/Construction-of-Academic-Knowledge-Graph-for-Semantic-Retrieval/assets/88278422/824e65d5-9173-4dc2-a700-4f6e6db228d6)
 
 ## ⑤ Semantic Retrievel
