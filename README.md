@@ -19,6 +19,12 @@
 
 ### · Entity and Relationship Design
 
+  1. Entity Description
+  ![image](https://github.com/Jbb-525/Construction-of-Academic-Knowledge-Graph-for-Semantic-Retrieval/assets/88278422/fdad72c4-4853-4e32-bd84-17810a143db5)
+  2. Relation Description
+  ![image](https://github.com/Jbb-525/Construction-of-Academic-Knowledge-Graph-for-Semantic-Retrieval/assets/88278422/d32ed55f-bc16-44f3-887b-e1df3b460147)
+
+
 ## ③ Data Layer Construction
 
 
